@@ -64,20 +64,20 @@ project/
 
 ## Screenshots 📸
 ![Home Page](home-page.png)
-![Home Page](screenshots/footer.png)
-![Home Page](screenshots/booking-page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
+![Footer page](footer.png)
+![Contact us page](contact-us-page.png)
+![Schedule Page](schedule-page.png)
+![User login Page](login-page.png)
+![Regestration Page](sign-up-page.png)
+![Booking page](booking-page.png)
+![Payment gateway Page](payment-gateway.png)
+![Ticket ](ticket.png)
+![Admin dashboard](admin-dashboard.png)
+![Manage Bokking ](booking-manage.png)
+![Upload new movie](movie-upload.png)
+![handle Movie](movie-manage.png)
+![Add direct entry](add-entry.png)
+
 
 ..
 
