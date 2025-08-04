@@ -63,6 +63,22 @@ project/
 - **Password**: 123
 
 ## Screenshots 📸
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/footer.png)
+![Home Page](screenshots/booking-page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home_page.png)
+
 ..
 
 ## License 📄
