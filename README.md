@@ -71,6 +71,7 @@ project/
 ![Regestration Page](sign-up-page.png)
 ![Booking page](booking-page.png)
 ![Payment gateway Page](payment-gateway.png)
+![Payment sucessful](payment-sucess.png)
 ![Ticket ](ticket.png)
 ![Admin dashboard](admin-dashboard.png)
 ![Manage Bokking ](booking-manage.png)
