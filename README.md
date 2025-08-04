@@ -76,7 +76,7 @@ project/
 ![Manage Bokking ](booking-manage.png)
 ![Upload new movie](movie-upload.png)
 ![handle Movie](movie-manage.png)
-![Add direct entry](add-entry.png)
+![Feedback page](feedback-manage.png)
 
 
 ..
