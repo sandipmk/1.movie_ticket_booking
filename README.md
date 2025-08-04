@@ -14,15 +14,30 @@ It allows users to book movie tickets online, view seat availability, and get re
 
 ## Project Structure 📂
 ```
-/project
- ├── index.php
- ├── booking.php
- ├── payment.php
- ├── success.php
- ├── admin/
- ├── assets/
- ├── includes/
- └── database/
+project/
+├── admin/
+├── booking.php
+├── connection.php
+├── contact-us.php
+├── database/
+├── img/
+├── includes/   
+├── index.php
+├── lib/
+├── login.php
+├── payment_success.php
+├── pgResponse.php
+├── reciept.php
+├── schedule.php
+├── scripts/
+├── signup.php
+├── style/
+├── TxnStatus.php
+├── userlogout.php
+├── vendor/
+├── verify.php
+└── _config.yml
+
 ```
 
 ## Technologies Used 🛠️
