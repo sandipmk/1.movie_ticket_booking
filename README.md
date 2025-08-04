@@ -63,21 +63,22 @@ project/
 - **Password**: 123
 
 ## Screenshots 📸
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/footer.png)
-![Home Page](screenshots/booking-page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home-page.png)
+![how it work](screenshots/guide-for-book.png)
+![Movie trailer](screenshots/trailer-page.png)
+![Footer page](screenshots/footer.png)
+![Contact us page](screenshots/contact-us-page.png)
+![Schedule Page](screenshots/schedule-page.png)
+![User login Page](screenshots/login-page.png)
+![Regestration Page](screenshots/sign-up-page.png)
+![Booking page](screenshots/booking-page.png)
+![Payment gateway Page](screenshots/payment-gateway.png)
+![Ticket ](screenshots/ticket.png)
+![Admin dashboard](screenshots/admin-dashboard.png)
+![Manage Bokking ](screenshots/booking-manage.png)
+![Upload new movie](screenshots/movie-upload.png)
+![handle Movie](screenshots/movie-manage.png)
+![Add direct entry](screenshots/add-entry.png)
 
 ..
 
