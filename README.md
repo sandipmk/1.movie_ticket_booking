@@ -63,7 +63,7 @@ project/
 - **Password**: 123
 
 ## Screenshots 📸
-![Home Page](home-page.png)
+![Home Page](screenshots/home-page.png)
 ![Footer page](footer.png)
 ![Contact us page](contact-us-page.png)
 ![Schedule Page](schedule-page.png)
